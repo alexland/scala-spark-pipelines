@@ -12,6 +12,7 @@ notes/
 .lib/
 dist/*
 target/
+resources/
 lib_managed/
 src_managed/
 project/boot/
