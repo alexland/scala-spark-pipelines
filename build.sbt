@@ -52,7 +52,7 @@ lazy val commonSettings = Seq(
 	fork in run := true,
 	javaHome := Some(
 								file(
-									"/Library/Java/JavaVirtualMachines/jdk1.8.0_102.jdk/Contents/Home"
+									"/Library/Java/JavaVirtualMachines/jdk1.8.0_122.jdk/Contents/Home"
 								)
 	),
 	scalacOptions in Test ++= Seq("-Yrangepos"),
